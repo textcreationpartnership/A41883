@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great case of toleration stated and endeavoured to be resolved in order to publick security and peace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41883</idno>
+            <idno type="STC">Wing G1673</idno>
+            <idno type="STC">ESTC R32459</idno>
+            <idno type="EEBO-CITATION">12696789</idno>
+            <idno type="OCLC">ocm 12696789</idno>
+            <idno type="VID">65888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1527:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great case of toleration stated and endeavoured to be resolved in order to publick security and peace.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Andrew Swole ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata on p. 12.</note>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  Church of England.</term>
+               <term>Liberty of conscience.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65888:1" rendition="simple:additions"/>
+            <pb facs="tcp:65888:1" rendition="simple:additions"/>
+            <p>THE Great Caſe OF TOLERATION <hi>Stated,</hi> And endeavoured to be reſolved in order to Publick <hi>Security and Peace.</hi>
+            </p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold, by <hi>Andrew Swole</hi> at the <hi>Three Keys,</hi> in <hi>Nags-Head-Court,</hi> in <hi>Grace-Church-Street,</hi> over-againſt the <hi>Conduit,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65888:2"/>
+            <pb n="3" facs="tcp:65888:2"/>
+            <head>THE <hi>Great Caſe</hi> OF TOLERATION Stated, And endeavoured to be reſolved, in order to publick <hi>Security</hi> and <hi>Peace.</hi>
+            </head>
+            <p>
+               <hi>Three things are to be conſidered on this Subject,</hi>
+               <list>
+                  <item>
+                     <hi>Firſt, <hi>Whether Toleration be conſiſtant with the very nature and deſign of Chriſtian Religion?</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Secondly, <hi>Whether it be reconcileable to the beſt Rules of Government and Policy?</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Thirdly, <hi>Whether it ſtands with our ſafety in the pre<g ref="char:EOLhyphen"/>ſent Conjuncture and poſture of Affirs?</hi>
+                     </hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>And if all theſe can be made good in the Affirmative, I know not what can be more deſired, and why it is not ſeaſonable to be Eſtabliſhed and made Perpetual.</hi>
+            </p>
+            <p>TO the firſt Point, If there is ſome reallity mixt with ſo much profeſſion and talk of Religion as is now in the World; If there is indeed a deſign of Gods Glory, and the Pleas of Conſcience are not fictitious and pretended; let Man but
+<pb n="4" facs="tcp:65888:3"/>conſider the nature of his Government over the World, which is to be glorified in afree and voluntary Obedience of his Rational Creatures, and ſuch is to be pure, not forced, and nothing beſides his own Command an inducement to it. How doth he diſclaim it by the Prophet, <hi>Iſa.</hi> 29.13. <hi>When their Fear towards me is taught by the Precepts of Men.</hi> How well this place agrees with that Com<g ref="char:EOLhyphen"/>pulſion to the Sacrament, or ſuch a Communion, let any one judge that will not pervert the mind of Scripture, and the nature of true Obedience. <hi>Chriſoſtom</hi> brings us an Argument why Men ſhould be perſwaded,<note place="margin">Cited by Dr <hi>Hammon,</hi> of Death-Bed Repen<g ref="char:EOLhyphen"/>ance, <hi>Sect.</hi> 35.</note> not forced, to Reformation of any Fault or Error, becauſe God rewards not thoſe that upon neceſſity abſtain from Evil, but only thoſe that voluntary do it. If a Mans Servant would not do ſuch a thing barely upon his own Maſters Command, but another Perſon muſt firſt compel him, &amp; then he doth it; What honour will it be to him, or will he care for ſuch Service? Doth God want the aid of Man to make others Obedient unto him, ſure<g ref="char:EOLhyphen"/>ly not, nay it cannot be done by outward Violence; one hereby may be brought like a Beaſt to the Sacrifice, but ſtill there is no<g ref="char:EOLhyphen"/>thing of the ſubjection of the Mind. God values not hypocritical Services or a meer external ſubmiſſion, he may be as well glorified in having Bullocks or Goats, for they become ſubject unto the ut<g ref="char:EOLhyphen"/>moſt, even to Death; but if Man who can give, if he requires, an Offering of a free Heart, which is only in his own power, not to be exerted by any human Authority, for this cannot reach ſo far, and if it could, yet it coming from that would not be accepted: I might multiply many Texts, but what would they all ſignifie? for there is a common cuſtom through the proud and diſdainful Igno<g ref="char:EOLhyphen"/>rance, but yet Cunning of Men, to ſlight over what they cannot An<g ref="char:EOLhyphen"/>ſwer, they are ſo preſumptuous as to put off all means from the Word of the all-wiſe God for Fooliſh and Canting, which make againſt their own corrupt doings, though themſelves will make uſe of them to maintain their own Intereſt and Humour againſt a diffe<g ref="char:EOLhyphen"/>rent Perſwaſion; to ſuch all theſe kind of Arguments ſignifie no<g ref="char:EOLhyphen"/>thing, and truly no more need to be added, ſeeing ſo many are brought to this purpoſe by Dr. <hi>Taylor,</hi> in his <hi>Liberty of Propheſie,</hi> that even all thoſe that have the Reputation for ſo much Learning &amp; Reaſon cannot give a perfect and ſatisfactory Anſwer to them, they
+<pb n="5" facs="tcp:65888:3"/>have been and are now challenged to do it, for the Opponant is worthy their contending with, and it would be for their ſecular Ad<g ref="char:EOLhyphen"/>vantage to keep up the Grandure and State of their Communion, and alſo their own Honour, and undoubtedly it had been done long ſince if poſſible; but that excellent Author argees ſo concluſively from Scripture, Reaſon, Primitive Authority, as is a demonſtrati<g ref="char:EOLhyphen"/>on it was the very Truth he contended for, which he made further clear.</p>
+            <p>Some object <hi>That of Church Cenſures in the Primitive Times;</hi> but there was a great and manifeſt diverſity between them, and what was lately uſed amongſt us; for they were inflected on groſs Here<g ref="char:EOLhyphen"/>ticks, and they are only ſo on whom the Apoſtle ſpeaks, <hi>Tit.</hi> 3.10, 11. And beſides for ſcandalous Sins, the Inceſtuous Perſon, Adulte<g ref="char:EOLhyphen"/>rers, Drunkards, and ſuch like, and not for little Errors or diffe<g ref="char:EOLhyphen"/>rence in Judgment, as juſt the contrary hath been uſed among us, that even it was a ſhame for Men to act ſuch Severities towards Men, likewiſe much leſs ſhould Chriſtians; every one that hath but the com<g ref="char:EOLhyphen"/>mon goodneſs &amp; reſentment of human Nature muſt abhor them; they did moſt ſtir up, whoſe duty it was in meekneſs to inſtruct Oppo<g ref="char:EOLhyphen"/>ſers, and hereby they gave occaſion to indifferent and conſidering Perſons to think (though they might have waved this) as if they wanted Arguments to convince, for there is alſo <hi>ratio ultima Cleri,</hi> who ſhould teach Mercifulneſs, Love, Forbarance, Meekneſs, they did practice the contrary, as if what ſo many do make their Craft, was in danger to be ſet at naught, as they had run ſo far from the Practice and Experience of former times, whether that of <hi>Ezekiel</hi> 34.4. <hi>(The Diſeaſed have ye not Strengthened, neither have ye healed that which was Sick, neither have ye bound up that which was broken, nei<g ref="char:EOLhyphen"/>ther have ye brought again that which was driven away, neither have ye ſought that which was loſt; but with Force and with Cruelty have ye ruled them)</hi> hath not been fulfilled in theſe latter Days, let any one ſeri<g ref="char:EOLhyphen"/>ouſly reflect, and the true cauſe of all our Diviſions, Sects and Par<g ref="char:EOLhyphen"/>ties may not be learned from what is ſaid in this Chapter.</p>
+            <p>There might be many other things urged, but they have been al<g ref="char:EOLhyphen"/>ready in Books, and there is no need of further Printing, where its granted by all unprejudiced, unintereſted Men, by thoſe who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſcern any thing of themſelves, and are not led by the Noſe by them who meet for their Pride and Profit more then for the Truths
+<pb n="6" facs="tcp:65888:4"/>ſake, as may be conſidered, becauſe they will not comply with what they ſeem to teach, with obedience to the Truth, that they who are appointed Officers of Chriſts Kingdom, will not conſent it ſhould be ſo as he himſelf hath ordained it, he could have commanded twelve Legions of Angels, planted his Religion as the Impoſter <hi>Mahomet</hi> did by the Sword, but he uſed none but that of his Mouth, no more did any of the firſt Founders thereof, and the ſame Word is con<g ref="char:EOLhyphen"/>veyed down to us, which is able to keep the Fear and Worſhip of God in the Hearts of Men, (if managed aright) without aid from the civil Authority. Where the Rulers were <hi>Heathen,</hi> and ſet a<g ref="char:EOLhyphen"/>gainſt him, he did make good his Dominion over Men by Miracles, and an extrordinary Power and Aſſiſtance, but now they are <hi>Chriſti<g ref="char:EOLhyphen"/>an,</hi> they are to give God the things that are Gods, a permiſſion on<g ref="char:EOLhyphen"/>ly that his Word and Truth be freely, and without moleſtation made known unto Men. The Divine Will and Pleaſure ſhould inſtant<g ref="char:EOLhyphen"/>ly ſilence all other Reaſons, and in a Chriſtian Country all ſhould comply there-with out of reſpect to him, without any further need of Argument, if People were indeed willing and obedient unto him, as he who at this preſent knoweth the Secrets of all Hearts, will one day judge and manifeſt them; yet in this degenerate Con<g ref="char:EOLhyphen"/>dition of the World, or Apoſtacy from God, notwithſtanding all their ſeeming to Honour him with their Lips, the Devotion and Obedience they pretend to give him, yet this is the moſt inconſide<g ref="char:EOLhyphen"/>rable Argument, and hath the leaſt effect upon Men, and therefore we are to deſcend to the other. The firſt Conſideration is from fu<g ref="char:EOLhyphen"/>ture and inviſible things, yet the certainty and greatneſs of them would take away this prejudice, for they alſo will be preſent and before us; for every Day the Gate of Death opens unto them, and ſingle Perſons enter in, and the moſt Healthful and Luſtieſt of us all haſte to it; but ſeeing what is now ſeen and done doth moſt affect, therefore Peace and Safety, Conveniency and Intereſt came in, and is to be ſuſpected will principally determine the Caſe; and ſo the ſecond Queſtion is ſomewhat to be diſcuſſed.</p>
+            <p>
+               <hi>Whether</hi> Toleration <hi>be reconcileable to the beſt Rules of Government.</hi>
+            </p>
+            <p>The end of which is <hi>Peace,</hi> that every one may live quietly and have his own, be Loyal and Obedient unto the King, Loving and
+<pb n="7" facs="tcp:65888:4" rendition="simple:additions"/>Kind to one another; now it is ſtrange that Religion, which relies wholy upon Mans Obedience unto God, as he hath the ſame from all the Created Beeings of the World, which keeps them all in or<g ref="char:EOLhyphen"/>der; ſo to Man, who is fitly called <hi>the little World,</hi> there being the like neceſſity to maintain Peace on Earth, and good will towards Men, as to keep up the whole courſe of Nature, yet this ſhould be turned into Rebellion, Diſobedience and Confuſion. We learn hereby what is the difference of things in their own Nature, and in their Corruption. <hi>Think ye I come to ſend Peace on the Earth, I tell ye nay, but the Sword,</hi> ſaid the Author of our Profeſſion, and it hath been found true; for as all his Laws and Precepts are moſt excel<g ref="char:EOLhyphen"/>lently contrived, as to the firſt, ſo upon the abuſe and non-comply<g ref="char:EOLhyphen"/>ance with them, the contrary effect hath followed. Who hath ſeen worſe Subjects then the Religious? and yet it cannot be denied but the Goſpel as ſtrictly injoyns Loyalty, as any other Duty what<g ref="char:EOLhyphen"/>ſoever, and tends very much to the Benefit and Welfare of the Common-Wealth. What can be the reaſon of all this, but only the Hypocriſie of ſome, and Ignorance of others? ſome who made this a bare pretence, and other ſilly Perſons who were beguiled with it. That of <hi>Acts</hi> 4.19. hath been in every ones Mouth, but then the Eſtabliſhed Laws of thoſe Countries were againſt the <hi>Chriſtian Religion</hi> in general: When the Governors became Chriſti<g ref="char:EOLhyphen"/>ans, then ſprang up Diviſions and Errors, and then they began to take unto, and maintain one ſide, the differing Parties ſtill thought themſelves in the right, and the aforeſaid place applicable to them alſo, and have hence taken occaſion to behave themſelves after the ſame manner as St <hi>Peter</hi> did: Others taking Advantage of their ſimplicity and real meaning, uſing them as Inſtruments to carry on their ambiti<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Deſigns and ſecular Intereſts; thus the Fire kindled and came forth into a Flame; I cannot ſo clearly expreſs my ſelf, and it would be tedious to run over the exact particular manner, but let any Impartial and Prudent Perſon examine this one thing, and conſider it throughly, Whether conſtraint in matters of Reli<g ref="char:EOLhyphen"/>gion hath not occaſioned all the Diſloyalty, wherein this was made the leaſt pretext, or made any noiſe, not only in the four laſt Raigns in this Nation, but in all <hi>Chriſtendom,</hi> and thoſe ſeveral Ages ſince Chriſt and his Apoſtles were upon the Earth, how it occaſioned thoſe Perſecutions and Cruelties even towards them and their Follow<g ref="char:EOLhyphen"/>ers,
+<pb n="8" facs="tcp:65888:5" rendition="simple:additions"/>and after when it came likewiſe to be Eſtabliſhed in Countries, (as <hi>Heatheniſm</hi> and <hi>Jewdaiſm</hi> were before) then (as afore noted) Diviſions did ariſe and increaſe, and the Secular Authority deſcend<g ref="char:EOLhyphen"/>ing, and intereſting it ſelf as to them, hereby became Trouble, and Inſecure either by ſecret Plots and Conſpiraces, or if ſtrong enough, the open Seditions of thoſe that ſmaried under it; Fleſh and Blood are apt to be Mutionous, thinking it better to reſiſt then be tamely Beaten, but when miſtaken Conſcience and deluded Zeal do further ſtir up, then it is much more ſo: At this time the crafty Politians came in, who were acted by Ambition and Intereſt, and did firſt lead along, and then became Leaders of the Faction. Now theſe had wanted a Pretext, and the other had not ſo much as had an Errone<g ref="char:EOLhyphen"/>ous Principle to have gone by, had it not been for their aforeſaid Compulſion. In truth the actings of both are Sinful and Unchriſti<g ref="char:EOLhyphen"/>an, in the one deſigned Hypocriſie, in the other it was Ignorance of that certain Duty of paſſive Obedience and Suffering for Conſcience ſake, rather then ſpeaking Evil, and much leſs then, to lift up the Hand againſt the Lords Anointed; but as long as Covetouſneſs and Pride did inſtigate the firſt, and when a ſly Temptation did offer it ſelf to the latter for avoiding the Croſs, by thoſe means which were diſputable, and did not appear to them directly unlawful, the De<g ref="char:EOLhyphen"/>vil who acts at the bottom of all human Affairs, can raiſe a fair ap<g ref="char:EOLhyphen"/>pearance to excuſe from outward Pain and Inconveniences; the il<g ref="char:EOLhyphen"/>luſions of the Spirit of Error, and the Reaſonings of the Carnal Man prompt them any way to ſave themſelves from the Storm; one may thus trace out all the Factions and Rebellions that ever were, wherein Religion did make any noiſe, or was the leaſt concerned, <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nte cauſa, ceſſat effectus.</hi>
+            </p>
+            <p>Here ſome will cry, <hi>But this will be the way to let <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hereſie, Er<g ref="char:EOLhyphen"/>ror, and a thouſand Inconveniences;</hi> but the Civil Magiſtrate is not ſo imediately concerned as to them; indeed himſelf is but a Potſherd of the Eartn, though of the greateſt ſize, and conſequently hath the ſame relation to that God with whom we have all to do, and therefore in general is obliged to keep up the Worſhip and Fear of God, and the right Faith contained in the Scriptures (if he would leave all things as they are there, and with the <hi>Muſcovites</hi> forbid all Diſputes) however that the Fundamentals be thought no more then comprized in the Apoſtles Creed, and what were judged by the
+<pb n="9" facs="tcp:65888:5"/>four firſt Councils as abſolutely neceſſary to Salvation; if he per<g ref="char:EOLhyphen"/>mit nothing to them of holy Life, and his own Government, but there is a diſtinct order of Men to convince Herericks and deteſt Error, the Weapons of whoſe Warfare ought to be Spiritual and not Carnal, Truth is ſtrong and will prevail, for the Fundamentals here mentioned we are aſſured, but for all under them, or what may be immagined to be deduced from them, for that infinite num<g ref="char:EOLhyphen"/>ber of Conſequences and Queſtions among us, we know not what is Hereſie or Error; it is not ſufficient alone, when ſome have got the eſtabliſhed Laws of their Country on their ſide, to call others <hi>Herericks</hi> and <hi>Erronious,</hi> which is ſonner done then proved, and here too often happeneth, according to the old Proverb, <hi>The greateſt Fool, &amp;c.</hi> For though I do for my part believe the <hi>Church of England</hi> comes as near to the Primitive Pattern as any now in being, and that her Con<g ref="char:EOLhyphen"/>ſtitutions are good and true, except ſome diſputable Points which cannot be otherwiſe, when they come down to ſuch particular De<g ref="char:EOLhyphen"/>privations, as ſome may be ſeen in the Thirty nine Articles, yet if a falſe and corrupted Church ſhould get the upper Hand, it would be an hard caſe if the bare forwardneſs and confidence of them ſhould damm all others to Hell, but that not being in their Power is only <hi>Brutum fulmen;</hi> but what is worſe, Oppreſs them here on Earth, who will not likewiſe be carried away with their Corruption, &amp; ſo really involve themſelves into that wherein they did only frighten &amp; abuſe them, for thoſe Controverſies and Queſtions were a fooling, they are rather the Skirts and Borders then the Subſtance of Religion; and it will be ſad and riged to tye and confine Salvation unto any of them: What or who ſhall determine between the right and wrong? The Scriptures would do it even now, if ſincerely conſidered with<g ref="char:EOLhyphen"/>out Pride and Worldly end; however the Son of God is to judge out of them of every Mans Work; and were it not better to think the Truth. and follow his Directions, to go on peaceably now we are in the way to the ſame place which we all aim at and in ſome meaſure to begin that here, that is to be our Happineſs hereafter, though all ignorant Zeal and Animoſity cannot be laid aſide, yet good Men in this Life ſhould have that pretious Diſpoſition where<g ref="char:EOLhyphen"/>in their Spirits are to be made perfect, and all thoſe things to be done away which render Converſation unpleaſant in the World, but ſeeing this is not to be had, what ever bickering there may be
+<pb n="10" facs="tcp:65888:6"/>among fellow Subjects, which is alſo wiſhed it might be hindered as much as poſſible, is but as the Squabbling of Children amongſt themſelves, and the Father of our Country might take his effectual care to keep his Authority over them, and yet be ſafe by letting them alone with their little Wranglings; he may be pleaſed to laſh them into Peace and Quietneſs, but if he ſhould ſide with any this would turn the reſt againſt him. That vain Jangling, and many of thoſe Queſtions in Religion now agitated amongſt us, if compared with the weightier matters of the Law, do not deſerve a better com<g ref="char:EOLhyphen"/>pariſon then this, and for what Differences ſeem more material, why may they not ſtill remain in that Liberty God hath left them? One Mans Opinion may vary from another, as he doth in Complexion and Stature, and ſtill they are equally Men; one may Worſhip God after this manner, another after that, as long as God is Worſhipped and Served he may be Glorified every way, for he hath preſcribed no exact manner or form in his Word, only expreſſing himſelf a<g ref="char:EOLhyphen"/>gainſt the Sacrifice of falſe hypocritical &amp; outward Devotion, when ſeparated from the inward and ſpiritual. His appointed meanes are allowed, that all may be ſaved and come to the knowledge of the Truth: Indeed there is ſo little of the very Heart and Subſtance of Religion in thoſe diſtinguiſhing Characters of Communion among us, that why may it not be alſo applyed, that in every Sect and Party, <hi>He that ſerveth God and worketh Righteouſneſs is accepted with him,</hi> for to this alone do the Promiſes belong, without any mention of ſuch a National Church or Congregation, the Kings Authority is ſubordinate and dependant on the Divine, he doth ex<g ref="char:EOLhyphen"/>cellently diſcharge his Obligation by reſtoring unto God the imedi<g ref="char:EOLhyphen"/>ate Dominion over the Souls of Men; as it is the beſt Policy, for every one of what ever Condition in this preſent Life to be faithful unto God, ſo for him who is his beſt among Men, in that he layeth the beſt Foundation for the Security and Happineſs of his Government. In thoſe Countries where <hi>Toleration</hi> is allowed, they have none, or very rarely Rebellions or Seditions, this manner of Policy ſome States have taken, for they are the moſt unſafe kind of Goverments, but by this way have made it moſt Secure, ſo that the Deduction is obvious, if what is in it ſelf inſecured be yet preſer<g ref="char:EOLhyphen"/>ved this way, much more would that excellent, and in it ſelf ſafe. Form of Monarchy, be the more firmly Eſtabliſhed.</p>
+            <p>
+               <pb n="11" facs="tcp:65888:6"/>As to the laſt Queſtion, <hi>Whether it ſtands with our Safety in refe<g ref="char:EOLhyphen"/>rerence to the preſent Conjunction and Poſture of Affairs?</hi> I do not pretend to underſtand the intregues and Secrets of State; but if things are ſo indeed, as they are repreſented outwardly, if his Majeſty may be believed (as my Chari<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y doth incline me ſo to do) who hath made ſo many Proteſtations, and in the moſt ſolemn manner as can be well expreſſed, that he hath no further Deſign then what is mentioned in his Gracious <hi>Declaration,</hi> that all things ſhall be continually obſerved as there ſpecified, then there can be no ſuch Danger as is ſurmiſed, and ſome People are ſo forward to inſtil into the Minds of his Subjects, fears of Popery and altera<g ref="char:EOLhyphen"/>tion of Government is the general Whiſpering of thoſe who have called the like in others, not many Years ſince, <hi>The Vice of Faction and Sedition,</hi> by the moſt ſubtil kind of Perſwaſion, (objecting to all thoſe Folly and want of fore-ſight who are not of the ſame Mind) they mightily get them over to their Opinion, raiſing more terrible Preſages and Apprehenſions then is ground for them. It hath been obſerved of an Order of Men, that going out of their Profeſſions, and meddling with matters of State, have done more Miſchief, and cauſed more Diſturbance to Coun<g ref="char:EOLhyphen"/>tries, then of all Callings or Trades beſides, whether it holds true at this Day, let any one judge; all goes under the Name of Con<g ref="char:EOLhyphen"/>ſcience, but upon the ſtrict ſcrutiny, it will appear Pride and Inte<g ref="char:EOLhyphen"/>reſt bares the greateſt ſway; if theſe were good Men, as all would be thought ſo, and it is hoped and believed many are, then them<g ref="char:EOLhyphen"/>ſelves are not for being Lords over Gods Heritage; they will not ſtand ſo much for wordly Pride or Grandure, which is contrary to their ſpiritual Vocation, and they Condemn others for beyond Sea: If they believe in him whoſe Miniſters (they ſay) they are, and will take their Lot with him whoſe Kingdom is not of this World, then they will not ſtand up ſo ſtifly for Temporal Juriſ<g ref="char:EOLhyphen"/>diction and Command; but as it is moſt remarkable they ſhould Live well and handſomely as other Men, and as the Neceſſity and Merrit of the Function is beyend any whatſoever, in reſpect of the good it doth unto Men, in Gods Name, as ſome little requital thereof, let them ſtill enjoy the already Eſtabliſhed, or greater Maintenance; for my part I do ſincerely wiſh it were much better, and more equally diſpoſed for the encouragement of good and
+<pb n="12" facs="tcp:65888:7"/>honeſt Men, and therefore if they have all the further aſſurance that poſſibly can be given, that they ſtill have their Church Poſſeſ<g ref="char:EOLhyphen"/>ſions and Rights, and ſo it ſhall be as to Abby Lands, which are veſted in the Gentry, and other Lay Men; if all the Care and Caution which can be thought of, as to this matter; if this be made as ſure to them as <hi>Magna Charta,</hi> and Men have of their other Eſtates and Liberties; if they have all the Satisfaction and Aſſu<g ref="char:EOLhyphen"/>rance that may be any ways propoſed or found out, this would be the beſt Expedient to end thoſe Fears and Jealouſies, to allay the thoughts of Heat. If that which is already the Principal and E<g ref="char:EOLhyphen"/>ſtabliſhed Religion of this Country, be ſtill confirmed and ratified ſo to be: If all Churches and happels, or Publick or Conſecra<g ref="char:EOLhyphen"/>ted Places be for the ſervice of that only, and none be ſuffered be<g ref="char:EOLhyphen"/>ſides to enter into them; if to prevent Confuſion and Diſorder it be ſo provided, that one Communion doth not interfere with or moleſt the other; if that they keep within themſelves, and uſe not the leaſt outward Violence, nothing to be permitted beyond fair Argument and Perſwaſion, that all Truth may ſtand on equal ground and advantage, I know not why they ſhould be againſt it, who have the moſt on their ſide, and the ableſt Champions to de<g ref="char:EOLhyphen"/>fend it: I would in no wiſe be thought to preſcribe to my Superiours, but with the greateſt Humility &amp; Submiſſion beg leave to offer thus much, that ſome Expedients they may find out, for the firm and happy Eſtabliſhment of things: When reaſonable Propoſals are laid before any, and not accepted, it is a ſign there is ſomewhat further in it then one ſees, or is aware of; if there is no deſign but what is viſible on all hands, if the end be ſincere and good, the common means of Safety are neer and obvious.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>In Page 5. Line 32. Read and whither. p. 8. l. 9. r. Politions.</p>
+            <pb facs="tcp:65888:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
